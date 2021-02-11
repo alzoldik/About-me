@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://twitter.com/alzoldik"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/alzoldik/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/alzoldik"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/alzoldik_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
   <img src="https://www.codemade.io/wp-content/uploads/2018/04/hire-angularjs-developers-offshore-angularjs-programmers-152343160384kng.png" align="right" width="25%"/>
