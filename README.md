@@ -11,14 +11,13 @@
 I'm a software developer who is passionate about creating technology to elevate people . Some technologies I enjoy working with include Dart and Flutter.
 
 - 🔭 I'm a mobile application developer at [@Tqnee](https://www.tqnee.com.sa/) in Mansoura, Egypt
-- 🔍 I have 9 live apps: 
-  - Enqzni App ([Android version](https://play.google.com/store/apps/details?id=com.rabthelpme) )
-   - Hartna App ([Android version](https://play.google.com/store/apps/details?id=com.haretnaa), [iOS version](https://apps.apple.com/app/apple-store/id1547825881))
-   - Bekala Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtbekalashop), [iOS version](https://apps.apple.com/app/apple-store/id1546895933))
-   - Mobile Shop App ([Android version](https://play.google.com/store/apps/details?id=com.rabtmobileshop), [iOS version](https://apps.apple.com/app/apple-store/id1546770443))
-   - Charge App ([Android version](https://play.google.com/store/apps/details?id=com.rabtcharge), [iOS version](https://apps.apple.com/app/apple-store/id1542962160))
-   - Garage App ([Android version](https://play.google.com/store/apps/details?id=com.rabtgarage), [iOS version](https://apps.apple.com/app/apple-store/id1535385757))
-   - Maleka App ([Android version](https://play.google.com/store/apps/details?id=com.maleka), [iOS version](https://apps.apple.com/app/apple-store/id1537734107))
-   - Mazraaty App ([Android version](https://play.google.com/store/apps/details?id=com.mazraatyApp), [iOS version](https://apps.apple.com/app/apple-store/id1531569009))
-  - Keve App ([Android version](https://play.google.com/store/apps/details?id=com.keve), [iOS version](https://apps.apple.com/app/apple-store/id1522846596))
+- 🔍 I have more 9 live apps: 
+   - Kushoof ([Android](https://play.google.com/store/apps/details?id=com.tqnee.kushoof), [iOS](https://apps.apple.com/us/app/%D9%83%D8%B4%D9%88%D9%81/id1522198829))
+   - BI3 online ([Android](https://play.google.com/store/apps/details?id=io.rnlab.BI3),
+   - [iOS](https://apps.apple.com/us/app/%D8%A8%D9%8A%D8%B9%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1575979530))
+   - Snaydi child ([Android](https://play.google.com/store/apps/details?id=com.tqnee.sanaydiparent), [iOS](https://apps.apple.com/us/app/id1476991744))
+   - Kamsa3r  ([Android version](https://play.google.com/store/apps/details?id=com.tqnee.kamsa3r), [iOS version](https://apps.apple.com/us/app/%D9%83%D9%85-%D8%B3%D8%B9%D8%B1/id1459809033))
+   - Makhdoom   ([Android version](https://play.google.com/store/apps/details?id=com.tqnee.makhdoum), [iOS version](https://apps.apple.com/us/app/%D9%85%D8%AE%D8%AF%D9%88%D9%88%D9%85/id1498378815))
+   - Tourz  ([Android version](https://play.google.com/store/apps/details?id=com.tqnee.tourz), [iOS version](https://apps.apple.com/eg/app/tourz/id1509103073))
+   - For more apps [here](https://apps.apple.com/us/developer/tqnee/id1439673113?see-all=i-phone-apps)
 - 💬 Ask me about **Flutter**
