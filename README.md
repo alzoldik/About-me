@@ -13,8 +13,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🔭 I'm a mobile application developer at [@Tqnee](https://www.tqnee.com.sa/) in Mansoura, Egypt
 - 🔍 I have more 9 live apps: 
    - Kushoof ([Android](https://play.google.com/store/apps/details?id=com.tqnee.kushoof), [iOS](https://apps.apple.com/us/app/%D9%83%D8%B4%D9%88%D9%81/id1522198829))
-   - BI3 online ([Android](https://play.google.com/store/apps/details?id=io.rnlab.BI3),
-   - [iOS](https://apps.apple.com/us/app/%D8%A8%D9%8A%D8%B9%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1575979530))
+   - BI3 online ([Android](https://play.google.com/store/apps/details?id=io.rnlab.BI3), [iOS](https://apps.apple.com/us/app/%D8%A8%D9%8A%D8%B9%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86/id1575979530))
    - Snaydi child ([Android](https://play.google.com/store/apps/details?id=com.tqnee.sanaydiparent), [iOS](https://apps.apple.com/us/app/id1476991744))
    - Kamsa3r  ([Android version](https://play.google.com/store/apps/details?id=com.tqnee.kamsa3r), [iOS version](https://apps.apple.com/us/app/%D9%83%D9%85-%D8%B3%D8%B9%D8%B1/id1459809033))
    - Makhdoom   ([Android version](https://play.google.com/store/apps/details?id=com.tqnee.makhdoum), [iOS version](https://apps.apple.com/us/app/%D9%85%D8%AE%D8%AF%D9%88%D9%88%D9%85/id1498378815))
