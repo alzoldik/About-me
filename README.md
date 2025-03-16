@@ -47,35 +47,35 @@ Here are some of the **live applications** I’ve worked on:
 - Developed a seamless experience for flight, hotel, and service bookings.
 - **[Android](https://play.google.com/store/apps/details?id=com.app.Otago) | [iOS](https://apps.apple.com/us/app/6630382065)**
   
-#### ** BI3 online** *(Ecommerce App)*  
+#### **🛒 BI3 online** *(Ecommerce App)*  
 -   **[Android](https://play.google.com/store/apps/details?id=io.rnlab.BI3), [iOS](https://apps.apple.com/us/app/1585546716)**
 
-#### ** Alrowad** *(Services App)*  
+#### **💳 Alrowad** *(Services App)*  
 - Alrowad is an innovative app that allows you to easily request a variety of services
 - **[iOS](https://apps.apple.com/us/app/6505025447)**
 
-#### ** First Care** *(Services App)*  
+#### **👷‍♂️ First Care** *(Services App)*  
 - First Care application serves as a comprehensive platform for laundry services, offering customers easy access to top-quality laundry solutions.
 - **[iOS](https://apps.apple.com/us/app/6477761448)**
 - **[iOS](https://apps.apple.com/us/app/6477761529)**
 
-#### ** Kushoof** *(E-learning app)*  
+#### **🎓 Kushoof** *(E-learning app)*  
 - The first transcript application of its kind in the world to follow up, evaluate and prepare male and female students without the need for paper transcripts
 -  **[Android](https://play.google.com/store/apps/details?id=com.tqnee.kushoof), [iOS](https://apps.apple.com/us/app/1522198829)**
 
-#### ** Snaydi child** *(E-learning app)*  
+#### **🎓 Snaydi child** *(E-learning app)*  
 - **[Android](https://play.google.com/store/apps/details?id=com.tqnee.sanaydiparent), [iOS](https://apps.apple.com/us/app/id1476991744)**
 
-#### ** Kamsa3r** *(Ecommerce app)*  
+#### **🛒 Kamsa3r** *(Ecommerce app)*  
 - **[Android](https://play.google.com/store/apps/details?id=com.tqnee.kamsa3r), [iOS](https://apps.apple.com/us/app/1459809033)**
   
-#### ** Makhdoom** *(Services App)*  
+#### **👷‍♂️ Makhdoom** *(Services App)*  
 - **[Android](https://play.google.com/store/apps/details?id=com.tqnee.makhdoum), [iOS](https://apps.apple.com/us/app/1498378815)**
   
-#### ** Tourz** *(Booking Platform)*  
+#### **✈️ Tourz** *(Booking Platform)*  
 - **[Android](https://play.google.com/store/apps/details?id=com.tqnee.tourz), [iOS](https://apps.apple.com/eg/app/tourz/id1509103073)**
 
-#### ** Basher** *(News app)*  
+#### **🗞️ Basher** *(News app)*  
 - **[iOS](https://apps.apple.com/us/app/1463982460)**
 
 - For more apps [here](https://apps.apple.com/us/developer/tqnee/id1439673113?see-all=i-phone-apps)
