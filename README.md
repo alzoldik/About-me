@@ -1,106 +1,143 @@
-
-<h1 align="center">Hi, I'm Aly 👋</h1>
+<h1 align="center">Ali Mohamed</h1>
 
 <p align="center">
-    <a href="https://twitter.com/alzoldik"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/alzoldik/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/alzoldik_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  <strong>Senior Flutter Developer &amp; Mobile Engineer</strong><br />
+  Cairo, Egypt · Building production iOS and Android applications
 </p>
 
-<img src="https://www.codemade.io/wp-content/uploads/2018/04/hire-angularjs-developers-offshore-angularjs-programmers-152343160384kng.png" align="right" width="25%"/>
+<p align="center">
+  <a href="https://alzoldik.github.io/ali-mohamed-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://alzoldik.github.io/ali-mohamed-portfolio/resume/Ali-Mohamed-Senior-Flutter-Developer.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alzoldik"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aly.egy09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-### 🚀 About Me  
-I'm a **Senior Flutter Developer** with extensive experience in building scalable, high-performance mobile applications. I specialize in **Flutter & Dart**, with a strong background in **application architecture, state management, and API integrations**. Passionate about delivering top-tier mobile experiences and leading development teams.
+## About
 
-- 🔭 Currently a **Senior Flutter Developer** at **[@INNOVADIGITS](https://innovadigits.com/)**  
-- 🏗️ Architecting and optimizing mobile applications for performance and scalability  
-- 💡 Skilled in **Flutter, Dart, Bloc, Firebase, Google Maps API, REST APIs**  
-- 👨‍💻 Passionate about **building innovative solutions and mentoring developers**  
+I am a Senior Flutter Developer and Mobile Engineer with **6+ years of experience** building,
+shipping, and maintaining production applications for iOS and Android. My work spans enterprise
+HR, real-estate investment, event operations, e-learning, media, mobility, and service platforms.
 
----
+I work across the complete delivery lifecycle: architecture and feature planning, API and native
+platform integration, state and data layers, performance and security, production troubleshooting,
+and App Store and Google Play releases.
 
-### 📱 Featured Projects  
-Here are some of the **live applications** I’ve worked on:  
+Current focus areas include:
 
-#### **🛠 HCM7** *(HR Management System)*  
-- A powerful HR management system designed to streamline workforce operations and enhance productivity.
-- **[Android](https://play.google.com/store/apps/details?id=com.appsLink.hcm7) | [iOS](https://apps.apple.com/eg/app/hcm7/id1627243893)**    
+- Scalable Flutter architecture and reusable mobile foundations
+- Offline and background media, FFmpeg, audio, and video playback
+- Geofencing, BLE beacons, QR scanning, maps, and location-aware workflows
+- Bilingual Arabic/English interfaces with correct RTL/LTR behavior
+- Production stability, security hardening, release engineering, and CI/CD
 
-#### **🏡 Masaken** *(Real Estate Product)*  
-- An innovative real estate platform designed for seamless property management and transactions.
-- **[Android](https://play.google.com/store/apps/details?id=com.app.masaken) | [iOS](https://apps.apple.com/us/app/6689521374)**  
- 
+## Selected work
 
-#### **🚀 SAWA** *(E-commerce & Services Platform)*  
-- **Built from scratch** to meet the company’s unique requirements.  
-- **[Android](https://play.google.com/store/apps/details?id=com.fusion.sawa) | [iOS](https://apps.apple.com/eg/app/sawa/id1645381223)**  
+- **Elit3 — Founding Mobile Engineer.** Media-heavy learning platform with courses, live
+  sessions, community, podcasts, reels, and offline/background playback.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/elit3/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.app.elite) ·
+  [iOS](https://apps.apple.com/eg/app/id6758868954)
+- **HCM7 — Senior Mobile Engineer via InnovaDigits for Apps Link.** Enterprise HR and employee
+  self-service with geofenced, QR, and BLE-beacon attendance.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/hcm7/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.appsLink.hcm7) ·
+  [iOS](https://apps.apple.com/eg/app/hcm7/id1627243893)
+- **Bsht — Senior Flutter Developer via InnovaDigits for Masheed.** Bilingual real-estate
+  investment, reservations, company accounts, and financing workflows.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/bsht/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.app.investment_portal) ·
+  [iOS](https://apps.apple.com/app/id6744442461)
+- **SAWA — Founding Mobile Engineer on a small product team.** Carpooling workflows for drivers
+  and passengers, maps, booking, and messaging.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/sawa/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.fusion.sawa) ·
+  [iOS](https://apps.apple.com/eg/app/sawa/id1645381223)
+- **Neo Nerd — Founding Mobile Engineer.** Video-first e-learning with course discovery,
+  accounts, and progress tracking.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/neo-nerd/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.app.new_nerd) ·
+  [iOS](https://apps.apple.com/app/id6752838175)
+- **SaudiProjects QR — Senior Flutter Developer via InnovaDigits.** Secure invitation validation,
+  QR check-in, and real-time attendance statistics.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/saudiprojects-qr/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.app.invest_qr_app)
+- **Lamha — Flutter Developer.** Audiobook and podcast playback, downloads, library and account
+  workflows, APIs, performance, and stability.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/lamha/) ·
+  [iOS](https://apps.apple.com/app/id1593939628)
+- **A-plus — Lead Mobile Contributor.** Modernization and maintenance of an existing education
+  product through multiple production releases.
+  [Case study](https://alzoldik.github.io/ali-mohamed-portfolio/work/a-plus/) ·
+  [Android](https://play.google.com/store/apps/details?id=com.sellx.aplus_student) ·
+  [iOS](https://apps.apple.com/eg/app/a-plus/id1543956025)
 
-#### **📖 LAMHA** *(Audiobooks & Podcasts)*  
-- Implemented new features improving user engagement.  
-- **[Android](https://play.google.com/store/apps/details?id=app.iqraa.lamha) | [iOS](https://apps.apple.com/us/app/1593939628)**  
+[View all verified projects and case studies →](https://alzoldik.github.io/ali-mohamed-portfolio/#work)
 
-#### **🎓 A-Plus** *(Educational Platform)*  
-- Led development and successful app store launch.  
-- **[Android](https://play.google.com/store/apps/details?id=com.sellx.aplus_student) | [iOS](https://apps.apple.com/us/app/1543956025)**  
+## TQNEE portfolio · 2020–2021
 
-#### **✈️ Otago** *(Travel & Booking Platform)*  
-- Developed a seamless experience for flight, hotel, and service bookings.
-- **[Android](https://play.google.com/store/apps/details?id=com.app.Otago) | [iOS](https://apps.apple.com/us/app/6630382065)**
-  
-#### **🛒 BI3 online** *(Ecommerce App)*  
--   **[Android](https://play.google.com/store/apps/details?id=io.rnlab.BI3), [iOS](https://apps.apple.com/us/app/1585546716)**
+As a Junior Flutter Developer at **TQNEE**, I contributed feature development, maintenance, bug
+fixes, testing, and release work across the company's Flutter portfolio:
 
-#### **💳 Alrowad** *(Services App)*  
-- Alrowad is an innovative app that allows you to easily request a variety of services
-- **[iOS](https://apps.apple.com/us/app/6505025447)**
+- **Kushoof** — student follow-up, evaluation, and transcript workflows.
+  [Android](https://play.google.com/store/apps/details?id=com.tqnee.kushoof) ·
+  [iOS](https://apps.apple.com/app/id1522198829)
+- **Snaydi Child** — parent-and-child e-learning; later feature and maintenance contribution.
+  [Android](https://play.google.com/store/apps/details?id=com.tqnee.sanaydiparent) ·
+  [iOS](https://apps.apple.com/us/app/id1476991744)
+- **Makhdoum** — services application feature, maintenance, and release work.
+  [iOS](https://apps.apple.com/us/app/1498378815)
+- **Tourz** — travel and booking application feature and maintenance work.
+  [iOS](https://apps.apple.com/eg/app/tourz/id1509103073)
+- **Kamsa3r** — e-commerce application; its store listings have since been removed.
+- **Basher** — community application; later feature and maintenance contribution.
+  [iOS](https://apps.apple.com/us/app/1463982460)
 
-#### **👷‍♂️ First Care** *(Services App)*  
-- First Care application serves as a comprehensive platform for laundry services, offering customers easy access to top-quality laundry solutions.
-- **[iOS](https://apps.apple.com/us/app/6477761448)**
-- **[iOS](https://apps.apple.com/us/app/6477761529)**
+Snaydi Child and Basher predate my tenure; I contributed to their later development rather than
+their original creation.
 
-#### **🎓 Kushoof** *(E-learning app)*  
-- The first transcript application of its kind in the world to follow up, evaluate and prepare male and female students without the need for paper transcripts
--  **[Android](https://play.google.com/store/apps/details?id=com.tqnee.kushoof), [iOS](https://apps.apple.com/us/app/1522198829)**
+## Open source and engineering work
 
-#### **🎓 Snaydi child** *(E-learning app)*  
-- **[Android](https://play.google.com/store/apps/details?id=com.tqnee.sanaydiparent), [iOS](https://apps.apple.com/us/app/id1476991744)**
+- **[Cleanz](https://github.com/alzoldik/cleanz)** — native SwiftUI macOS storage cleaner and
+  analyzer with a safety-first review flow; creator and sole author.
+- **[ffmpeg_kit_flutter_new fork](https://github.com/alzoldik/ffmpeg_kit_flutter_new)** — iOS
+  distribution changes that repackage vendored frameworks as xcframeworks with an Apple Silicon
+  simulator slice. FFmpeg and the upstream plugin remain the upstream authors' work.
+- **[base](https://github.com/alzoldik/base)** — Flutter starter template with BLoC/RxDart, Dio,
+  localization, feature-first structure, and a GitHub Actions delivery pipeline.
 
-#### **🛒 Kamsa3r** *(Ecommerce app)*  
-- **[Android](https://play.google.com/store/apps/details?id=com.tqnee.kamsa3r), [iOS](https://apps.apple.com/us/app/1459809033)**
-  
-#### **👷‍♂️ Makhdoom** *(Services App)*  
-- **[Android](https://play.google.com/store/apps/details?id=com.tqnee.makhdoum), [iOS](https://apps.apple.com/us/app/1498378815)**
-  
-#### **✈️ Tourz** *(Booking Platform)*  
-- **[Android](https://play.google.com/store/apps/details?id=com.tqnee.tourz), [iOS](https://apps.apple.com/eg/app/tourz/id1509103073)**
+## Experience
 
-#### **🗞️ Basher** *(News app)*  
-- **[iOS](https://apps.apple.com/us/app/1463982460)**
+| Period            | Role                     | Organization                     |
+| ----------------- | ------------------------ | -------------------------------- |
+| Jan 2023–Present  | Senior Flutter Developer | **InnovaDigits** · Cairo, Egypt  |
+| Apr 2022–Dec 2022 | Flutter Developer        | **Lamha** · Remote               |
+| Aug 2021–Mar 2022 | Flutter Developer        | **Matrix Clouds** · Cairo, Egypt |
+| Jan 2020–Jul 2021 | Junior Flutter Developer | **TQNEE** · Mansoura, Egypt      |
 
-- For more apps [here](https://apps.apple.com/us/developer/tqnee/id1439673113?see-all=i-phone-apps)
+## Technical toolkit
 
-🔗 **More apps available upon request.**  
+- **Mobile:** Flutter, Dart, Swift, SwiftUI, Java, and native iOS/Android integration
+- **Architecture:** Clean and modular architecture, Repository Pattern, SOLID, OOP, design
+  patterns, and dependency injection
+- **State and data:** BLoC, Cubit, Provider, RxDart, Dio, REST APIs, JSON, WebSockets, Socket.IO,
+  Firebase, Hive, and secure storage
+- **Product capabilities:** Offline-first flows, background services, audio/video, FFmpeg, maps,
+  geofencing, BLE, QR scanning, push notifications, and deep links
+- **Quality and delivery:** Performance profiling, crash investigation, security, code review,
+  CI/CD, App Store Connect, and Google Play Console
+- **Collaboration:** Git, GitHub, GitLab, Bitbucket, Jira, Confluence, Trello, Xcode, Android
+  Studio, and VS Code
 
----
+## Education and certifications
 
-### ⚡ Tech Stack  
-- **Languages & Frameworks:** Dart, Flutter, Swift, Java, OOP  
-- **State Management:** Bloc, Provider  
-- **Databases & Cloud:** Firebase, REST APIs, Google Maps API, Socket.io  
-- **Development Tools:** Android Studio, Xcode, VS Code, Git, GitHub, GitLab  
-- **Project Management:** Jira, Trello, Confluence  
-- **Software Architecture:** SOLID Principles, Design Patterns  
+- **BSc in Computer Science**, Mansoura University — 2016–2020
+- **Meta iOS Development Certificate** — Meta, 2024
+- **Flutter & Dart: The Complete Guide** — Udemy, 2019
+- **Android Development with Java** — Mansoura University, 2018
 
----
+## Contact
 
-### 📫 Connect with Me  
-💼 **[LinkedIn](https://www.linkedin.com/in/alzoldik/)**  
-🐦 **[Twitter](https://twitter.com/alzoldik)**  
-📸 **[Instagram](https://www.instagram.com/alzoldik_/)**  
-
----
-
-⭐ **If you found this useful, consider giving my repositories a star!** 🌟
-
-
+- Portfolio: [alzoldik.github.io/ali-mohamed-portfolio](https://alzoldik.github.io/ali-mohamed-portfolio/)
+- CV: [Download PDF](https://alzoldik.github.io/ali-mohamed-portfolio/resume/Ali-Mohamed-Senior-Flutter-Developer.pdf)
+- LinkedIn: [linkedin.com/in/alzoldik](https://www.linkedin.com/in/alzoldik)
+- Email: [aly.egy09@gmail.com](mailto:aly.egy09@gmail.com)
